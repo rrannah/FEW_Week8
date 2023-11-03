@@ -1,0 +1,12 @@
+body {
+    margin: 3% 30% 5% 10%;
+}
+
+#list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: large;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
